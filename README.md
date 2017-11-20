@@ -10,7 +10,7 @@ Car detection system is a system in which by uploading the image url of the imag
 Requirements:
 1. System(Browser)
 2. Internet Connection
-3. Image Url which should be available online( http://www.gaddidekho.com/wp-content/uploads/2013/05/Audi-S5-Sportback-Front-View.jpg ).
+3. Image Url which should be available online( http://sr4.perrys.co.uk/car-news/wp-content/uploads/2016/10/2017-Mazda3-front-e1475769806727.jpg ).
 4. Image should be from front of the car and having high quality.
 
 Directions to Use:
